@@ -1,0 +1,15 @@
+2024-04-28 17:41:19,641 - INFO - Start polling
+2024-04-28 17:41:20,239 - INFO - Run polling for bot @prasing_bars_bot id=7180319559 - 'PasswordBot'
+2024-04-28 17:41:38,170 - INFO - Update id=18484677 is handled. Duration 17327 ms by bot id=7180319559
+2024-04-28 17:41:41,699 - INFO - Бот запущен. Приветственное сообщение отправлено пользователю 809361961
+2024-04-28 17:41:41,699 - INFO - Update id=18484678 is handled. Duration 641 ms by bot id=7180319559
+2024-04-28 17:41:44,838 - INFO - Получена команда на размытие faces от пользователя 809361961
+2024-04-28 17:41:44,839 - INFO - Update id=18484679 is handled. Duration 657 ms by bot id=7180319559
+2024-04-28 17:41:52,979 - INFO - Фотография успешно обработана пользователем 809361961
+2024-04-28 17:41:52,979 - INFO - Update id=18484680 is handled. Duration 4202 ms by bot id=7180319559
+2024-04-28 17:41:58,498 - INFO - Получена команда на размытие eyes от пользователя 809361961
+2024-04-28 17:41:58,498 - INFO - Update id=18484681 is handled. Duration 859 ms by bot id=7180319559
+2024-04-28 17:42:07,675 - INFO - Фотография успешно обработана пользователем 809361961
+2024-04-28 17:42:07,676 - INFO - Update id=18484682 is handled. Duration 2327 ms by bot id=7180319559
+2024-04-28 17:42:29,808 - INFO - Polling stopped
+2024-04-28 17:42:30,064 - INFO - Polling stopped for bot @prasing_bars_bot id=7180319559 - 'PasswordBot'
