@@ -27,6 +27,7 @@ def blur_faces_or_eyes(image_path, blur_type='faces'):
             cv2.rectangle(img, (x-5, y-5), (x+w+5, y+h+5), (0, 165, 255), 2)
         elif blur_type == 'eyes':
             blur_region = img[y:y+h, x:x+w]
+            cv2.rectangle(img, (x-5, y-5), (x+w+5, y+h+5), (0, 165, 255), 2)
 
         blurred = cv2.medianBlur(blur_region, 35)
 
